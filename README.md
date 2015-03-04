@@ -1,7 +1,7 @@
 # Vagrant presentation
 
 * How to download and install/use a box
-* https://cloud-images.ubuntu.com/vagrant/trusty/current/trusty-server-cloudimg-amd64-vagrant-disk1.box
+* Here you can get the trusty64 vagrant box: https://cloud-images.ubuntu.com/vagrant/trusty/current/trusty-server-cloudimg-amd64-vagrant-disk1.box
 * How to use provision
 * How to export a box
 * Add a new box to the system: ``vagrant box add trusty64 virtualbox.box``
